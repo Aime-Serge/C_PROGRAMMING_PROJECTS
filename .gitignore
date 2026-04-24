@@ -1,0 +1,12 @@
+# Ignore compiled executables
+student_profile
+Welcome_To_C
+Welcome_To_C_Again
+
+# Ignore common build outputs
+*.o
+*.out
+*.exe
+
+# Optional: Ignore the VS Code folder if you want to keep settings private
+# .vscode/
